@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(180, 134, 186);
+    padding: 24px;
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(200, 112, 210);
+    padding: 12px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+p {
+    margin: 34px;
+    text-align: center ;
+}
+
+li {
+    list-style: none;
+}
